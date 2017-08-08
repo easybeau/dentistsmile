@@ -1,5 +1,5 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
+title: Cabinet Dr Bourgeois | Dental Jekyll Theme
 description: "A responsive Jekyll theme for dental clinics."
 baseurl: "/dentistsmile/" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
@@ -18,13 +18,13 @@ api_token: # Enter API token here
 contact:
     phone: 932 50 540
     emergency: 931 53 234
-    email: contact@yoursite.com
+    email: easybeau@gmail.com
     address: Von schroeders 273, <br> Viña del mar - Chile
 
 # Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
+lun_ven: 9:00 – 18:00
+samedi: 10:00 – 17:00
+dimanche: 10:00 – 15:00
 
 # Testimonials
 testimonials:
